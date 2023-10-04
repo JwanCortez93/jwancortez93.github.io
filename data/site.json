@@ -1,0 +1,10 @@
+{
+  "url": "https://jaredwray.com",
+  "description": "Jared Wray - I am the CTO and Co-Founder of Palmetto building a platform to enable renewable energy. Here you can learn more about my other investments and open source projects.",
+  "authorName": "Jared Wray",
+  "authorEmail": "me@jaredwray.com",
+  "feed": {
+    "url": "https://jaredwray.com/feed.xml",
+    "title": "Blog and Press"
+  }
+}

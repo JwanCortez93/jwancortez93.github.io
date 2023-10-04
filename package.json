@@ -1,0 +1,36 @@
+{
+  "name": "jw-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json}\""
+  },
+  "dependencies": {
+    "@types/luxon": "^3.3.2",
+    "dayjs": "^1.11.10",
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.8.0",
+    "luxon": "^3.4.3",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "prettier": "^3.0.3",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}

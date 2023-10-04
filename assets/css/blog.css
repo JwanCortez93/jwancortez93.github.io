@@ -1,0 +1,145 @@
+.blog-link {
+  margin-right: 16px;
+}
+
+.post-button, .button {
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #fff;
+  border: 2px solid #666;
+}
+
+.post-button:hover {
+  background-color: #666;
+  color: #fff !important;
+}
+
+.button {
+  display: inline-block;
+}
+
+.button:hover {
+  background-color: #666;
+  color: #fff !important;
+}
+
+.blog-post-container {
+  padding-left: 10px;
+  padding-right: 10px;
+  display:inline-block;
+  box-sizing: border-box;
+}
+
+.post-container {
+  padding: 0;
+  width: 100%
+}
+.post-container .blog-post img {
+  width: 100%;
+}
+
+.blog-post {
+  width: 100%;
+  display:inline-block;
+}
+
+.tag-list {
+  display:flex;
+  justify-content:space-between
+}
+
+.blog-post a {
+  text-decoration: none;
+}
+
+.blog-post h2 {
+  font-size: 1.4286em;
+  line-height: 1.05;
+  margin: 2.1em 0 1.05em 0;
+}
+
+.blog-post img {
+  height: auto;
+  width: 95%;
+}
+
+.blog-post-image {
+  height: 140px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-position: center center, center top;
+  background-size: cover;
+ }
+
+.blog-post-tag-list {
+  display: none;
+}
+
+.blog-post-link-container {
+    width:100%;
+    text-align:center;
+}
+
+@media screen and (min-width: 768px) {
+  .blog-post-container, .post-container {
+    width: 80%;
+  }
+
+  .post-container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .blog-post pre{
+    width: 100%;
+  }
+
+  .blog-post-image {
+    height: 320px;
+   }
+
+   
+   .blog-post-link-left .post-button {
+    float: left;
+    max-width: 260px;
+  }
+
+  .blog-post-link-right .post-button {
+    float: right;
+    max-width: 260px;
+  }
+
+  .blog-post-tag-list {
+    vertical-align: top;
+    width: 19%;
+    box-sizing: border-box;
+    display:inline-block;
+  }
+
+  .blog-post-tag-list li {
+    list-style-type: square;
+    text-decoration: underline;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .blog-post-link-left .post-button {
+    max-width: initial;
+  }
+
+  .blog-post-link-right .post-button {
+    max-width: initial;
+  }
+
+  .blog-link {
+    margin-right: 0;
+  }
+}
+

@@ -1,0 +1,82 @@
+{
+  "redirects": [
+    [
+      "/2011/06/27/performance-is-a-feature-even-for-back-office/",
+      "/blog/performance-is-a-feature-even-for-it/"
+    ],
+    [
+      "/2011/10/03/scalable-development-if-you-need-scale-choose-wisely/",
+      "/blog/scalable-development-if-you-need-scale-choose-wisely/"
+    ],
+    [
+      "/2011/06/10/your-data-on-the-internet-is-not-yours-and-will-never-leave/",
+      "/blog/internet-privacy-for-humans"
+    ],
+    [
+      "/2011/09/23/my-greatest-successes-have-all-come-from-small-failures/",
+      "/blog/my-greatest-successes-have-all-come-from-small-failures/"
+    ],
+    ["/2011/08/25/funny-exchange-between-accounting-and-engineer/", "/blog"],
+    [
+      "/2011/11/21/why-operations-will-be-transitioning-to-managing-clouds-and-not-applications/",
+      "/blog"
+    ],
+    [
+      "/2015/09/15/moving-to-three-languages/",
+      "/blog/moving-to-three-languages"
+    ],
+    ["/2011/08/25/the-most-inspiring-speech-i-have-ever-heard/", "/blog"],
+    ["/2012/03/20/hybrid-cloud-101-what-you-should-know/", "/blog"],
+    [
+      "/2012/06/18/it-is-the-polish-that-makes-something-exceptional/",
+      "/blog/polish-your-company/"
+    ],
+    [
+      "/2015/08/25/picking-a-cofounder-is-hard/",
+      "/blog/picking-a-co-founder-is-hard/"
+    ],
+    [
+      "/2011/06/15/tier-3-awarded-gold-level-status-in-the-netapp-partner-program-forservice-providers/",
+      "/blog"
+    ],
+    [
+      "/2012/02/08/four-golden-rules-of-high-availability-2/",
+      "/blog/four-golden-rules-of-high-availability/"
+    ],
+    [
+      "/2011/04/22/what-you-think-you-need-vs-what-you-really-need/",
+      "/blog/what-you-think-you-need-vs-what-you-really-need/"
+    ],
+    [
+      "/2011/11/07/is-judgement-the-number-one-trait-for-a-developer/",
+      "/blog/is-judgement-the-number-one-trait-for-a-great-developer/"
+    ],
+    ["/2011/09/13/case-of-the-mundays/", "/blog"],
+    ["/i/favicon.ico", "/favicon.ico"],
+    ["/blog/page/1/", "/blog"],
+    ["/blog/page/2/", "/blog"],
+    ["/blog/page/3/", "/blog"],
+    ["/blog/page/4/", "/blog"],
+    ["/blog/page/5/", "/blog"],
+    ["/rss.xml", "/feed.xml"],
+    ["/blog/tags/scalability", "/blog/cloud-computing"],
+    ["/blog/tags/time-management", "/blog/productivity"],
+    ["/blog/tags/education", "/blog"],
+    ["/blog/tags/founder", "/blog/tags/entrepreneurship"],
+    ["/blog/tags/founders", "/blog/tags/entrepreneurship"],
+    ["/blog/tags/technology", "/blog/cloud-computing"],
+    ["/blog/tags/venture-capitol", "/blog/entrepreneurship"],
+    ["/blog/tags/distributed-systems", "/blog/cloud-computing"],
+    ["/blog/tags/social-media", "/blog"],
+    [
+      "/blog/moving-to-three-languages/funny",
+      "https://jaredwray.com/blog/moving-to-three-languages"
+    ],
+    ["/about", "/"],
+    ["/feed", "/feed.xml"],
+    [
+      "/2012/09/11/enabling-remote-workers-and-keeping-them-engaged*",
+      "/blog/enabling-remote-workers-and-keeping-them-engaged/"
+    ]
+  ]
+}
